@@ -1,0 +1,13 @@
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\bin\Debug\netcoreapp3.1\Hello World.exe
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\bin\Debug\netcoreapp3.1\Hello World.deps.json
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.json
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\bin\Debug\netcoreapp3.1\Hello World.runtimeconfig.dev.json
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\bin\Debug\netcoreapp3.1\Hello World.dll
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\bin\Debug\netcoreapp3.1\Hello World.pdb
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\obj\Debug\netcoreapp3.1\Hello World.csprojAssemblyReference.cache
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfoInputs.cache
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\obj\Debug\netcoreapp3.1\Hello World.AssemblyInfo.cs
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\obj\Debug\netcoreapp3.1\Hello World.csproj.CoreCompileInputs.cache
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\obj\Debug\netcoreapp3.1\Hello World.dll
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\obj\Debug\netcoreapp3.1\Hello World.pdb
+F:\Nueva carpeta\UNIVERSIDAD\Materias\2020-3\Programacion Aplicada 1\Tarea 1 -- 25-8-2020\Hello World\obj\Debug\netcoreapp3.1\Hello World.genruntimeconfig.cache
